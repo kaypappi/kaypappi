@@ -22,10 +22,10 @@
 
 Eyyyy!!! <br />
 I am <b>Wesley Ukadike</b><br/><br/>
-I am from <strong>NIgeria 🇳🇬<br/><br/>
+I am based in <strong>Ontario 🇳🇬🇨🇦<br/><br/>
 A passionate developer who loves to create magic  🖥️ <br /><br/>
 So... I am more than a robot coding 🤖, I am a real human trying to learn new things and develop incredible projects with ❤️ meeting incredible people on the way🚀<br /><br/>
-If you are interested in a guy with a good vibe who loves the knowledge and the constant learning 📚, <b>⚙️I AM YOUR GUY⚙️</b> <br /><br/>
+If you are interested in a guy with a good vibe who loves solving problems and constant learning 📚, <b>⚙️I AM YOUR GUY⚙️</b> <br /><br/>
 Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 <br/><br/> 
 
@@ -35,13 +35,10 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
     <td style="border: none;">
       <ul>
         <li>
-          🔭 Prospecting student at Conestoga College Canada
+          🔭 Cloud Data Management at Conestoga College Canada
         </li>
         <li>
           🤝 I’m looking to collaborate on Open Source Proyects
-        </li>
-        <li>
-          🌱 I’m currently learning Flutter & NestJS; 
         </li>
         <li>
           👨🏻‍💻 Most of my projects are available on [Github](https://github.com/kaypappi?tab=repositories)
