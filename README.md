@@ -100,8 +100,8 @@ Contact me for new projects 📨, <sup>I am open to collaborate with you</sup>
 <!-- Bassed on: https://github.com/anuraghazra/github-readme-stats -->
 <p align="center">
   <br/>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DavidsDvm's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kaypappi&count_private=true&theme=material-palenight&hide=stars,contribs&title_color=8a4af3&icon_color=2d7de4&show_icons=true&border_color=8a4af3" height="192px"/></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="DavidsDvm's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaypappi&langs_count=8&layout=compact&theme=material-palenight&title_color=8a4af3&icon_color=2d7de4&show_icons=true&border_color=8a4af3&border_radius=10" height="192px"/></a>
+ <!--  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Wesley's Github Stats" src="https://github-readme-stats.vercel.app/api?username=kaypappi&count_private=true&theme=material-palenight&hide=stars,contribs&title_color=8a4af3&icon_color=2d7de4&show_icons=true&border_color=8a4af3" height="192px"/></a> -->
+  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="Wesley's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kaypappi&langs_count=8&layout=compact&theme=material-palenight&title_color=8a4af3&icon_color=2d7de4&show_icons=true&border_color=8a4af3&border_radius=10" height="192px"/></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 </p>
